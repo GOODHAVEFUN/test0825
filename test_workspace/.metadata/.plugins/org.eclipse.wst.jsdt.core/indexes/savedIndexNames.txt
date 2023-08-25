@@ -1,7 +1,6 @@
-INDEX VERSION 1.4+C:\test0825\test_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4238886142.index
-3073603710.index
-2554608259.index
-4248657670.index
-2523266662.index
+INDEX VERSION 1.4+C:\Users\abb60\OneDrive\바탕 화면\예은님 테스트\test08254\test_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 1262878332.index
+1253729124.index
+1708870370.index
+2868467555.index
+3129354275.index
