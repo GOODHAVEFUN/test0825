@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>강진혁 뿌시뿌시!</h1>
+
+  <h1>이종민 뿌시뿌시!</h1>
+	<h1>강진혁 뿌시뿌시!</h1
 </body>
 </html>
